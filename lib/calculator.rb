@@ -1,8 +1,7 @@
-require "calculator/version"
-
-class Array
+class Calculator
   def square(n)
     result = n.map { |number| number ** 2 }
+    puts result
   end
   #
   def cube(n)
