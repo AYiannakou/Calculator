@@ -1,6 +1,6 @@
 # Calculator
 
-The Calculator app is developed to provide calculations with common functions.
+A Calculator app that provides some of the most common functions.
 
 # Calculator functions
 
